@@ -1,0 +1,4 @@
+2022-05-15T00:33:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-image-editor.php on line 565
+
+2022-05-15T09:30:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1376
+

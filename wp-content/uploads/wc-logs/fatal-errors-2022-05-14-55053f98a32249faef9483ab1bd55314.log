@@ -1,0 +1,52 @@
+2022-05-14T23:26:57+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2923
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+
+2022-05-14T23:27:07+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2923
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+
+2022-05-14T23:27:22+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2923
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+
+2022-05-14T23:45:08+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2923
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+
+2022-05-14T23:45:20+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2923
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/wordpress/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+
+2022-05-14T23:53:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-image-editor-gd.php on line 208
+
